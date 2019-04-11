@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Services</name>
+    </assembly>
+    <members>
+        <member name="T:Services.IWeatherRepository">
+            <summary>
+            Interface : IWeatherRepository 
+            </summary>
+        </member>
+        <member name="M:Services.IWeatherRepository.GetWeatherReport">
+            <summary>
+            Method : GetWeatherReport
+            </summary>
+            <returns>count of cities processed</returns>
+        </member>
+        <member name="T:Services.WeatherRepository">
+            <summary>
+            Class : WeatherRepository 
+            </summary>
+        </member>
+        <member name="M:Services.WeatherRepository.#ctor(OpenWeatherService.IWeatherService)">
+            <summary>
+            Constructor : WeatherRepository
+            </summary>
+            <param name="weatherRepository">IWeatherService</param>
+        </member>
+        <member name="M:Services.WeatherRepository.GetWeatherReport">
+            <summary>
+            GetWeatherReport
+            </summary>
+            <returns>count of cities processed</returns>
+        </member>
+        <member name="M:Services.WeatherRepository.GetWeatherData(Model.CityViewModel)">
+            <summary>
+            GetWeatherData
+            </summary>
+            <param name="dataModel">CityViewModel </param>
+        </member>
+        <member name="M:Services.WeatherRepository.SaveData(System.String,System.Int32,System.String)">
+            <summary>
+            SaveData
+            </summary>
+            <param name="result">Save the data in .JSON file</param>
+            <param name="key">CityID</param>
+            <param name="name">CityName</param>
+        </member>
+    </members>
+</doc>

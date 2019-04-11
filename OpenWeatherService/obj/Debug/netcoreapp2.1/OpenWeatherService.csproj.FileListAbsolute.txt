@@ -1,0 +1,10 @@
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\bin\Debug\netcoreapp2.1\OpenWeatherService.deps.json
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\bin\Debug\netcoreapp2.1\OpenWeatherService.dll
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\bin\Debug\netcoreapp2.1\OpenWeatherService.pdb
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\obj\Debug\netcoreapp2.1\OpenWeatherService.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\obj\Debug\netcoreapp2.1\OpenWeatherService.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\obj\Debug\netcoreapp2.1\OpenWeatherService.AssemblyInfo.cs
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\obj\Debug\netcoreapp2.1\OpenWeatherService.dll
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\obj\Debug\netcoreapp2.1\OpenWeatherService.pdb
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\bin\Debug\netcoreapp2.1\OpenWeatherService.xml
+C:\Users\Owner\source\repos\WeatherApp\OpenWeatherService\obj\Debug\netcoreapp2.1\OpenWeatherService.csprojAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Users\Owner\source\repos\WeatherApp\Model\bin\Debug\netcoreapp2.1\Model.deps.json
+C:\Users\Owner\source\repos\WeatherApp\Model\bin\Debug\netcoreapp2.1\Model.dll
+C:\Users\Owner\source\repos\WeatherApp\Model\bin\Debug\netcoreapp2.1\Model.pdb
+C:\Users\Owner\source\repos\WeatherApp\Model\obj\Debug\netcoreapp2.1\Model.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\WeatherApp\Model\obj\Debug\netcoreapp2.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\WeatherApp\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\WeatherApp\Model\obj\Debug\netcoreapp2.1\Model.AssemblyInfo.cs
+C:\Users\Owner\source\repos\WeatherApp\Model\obj\Debug\netcoreapp2.1\Model.dll
+C:\Users\Owner\source\repos\WeatherApp\Model\obj\Debug\netcoreapp2.1\Model.pdb

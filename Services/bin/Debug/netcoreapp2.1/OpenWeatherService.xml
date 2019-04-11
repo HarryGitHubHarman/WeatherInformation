@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>OpenWeatherService</name>
+    </assembly>
+    <members>
+        <member name="T:OpenWeatherService.IWeatherService">
+            <summary>
+            IWeatherService
+            </summary>
+        </member>
+        <member name="M:OpenWeatherService.IWeatherService.GetWeather(System.Int32)">
+            <summary>
+            GetWeather
+            </summary>
+            <param name="id">City ID</param>
+            <returns>Weather information in JSON format</returns>
+        </member>
+        <member name="T:OpenWeatherService.WeatherService">
+            <summary>
+            WeatherService 
+            </summary>
+        </member>
+        <member name="M:OpenWeatherService.WeatherService.#ctor">
+            <summary>
+            Constructor : WeatherService
+            </summary>
+        </member>
+        <member name="M:OpenWeatherService.WeatherService.GetWeather(System.Int32)">
+            <summary>
+            GetWeather
+            </summary>
+            <param name="CityId">CityID</param>
+            <returns>Weather information in JSON format</returns>
+        </member>
+    </members>
+</doc>
